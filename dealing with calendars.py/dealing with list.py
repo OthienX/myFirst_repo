@@ -9,3 +9,4 @@ while True:
     for name in catname:
         print("" +name)
 
+print("List compression is cool")
